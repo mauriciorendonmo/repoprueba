@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Identity;
 
 namespace PartsUnlimited.Models
 {
+// cambio desarrollo local
     public class ApplicationUser : IdentityUser
     {
         public string Name { get; set; }
