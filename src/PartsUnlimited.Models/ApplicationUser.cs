@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Identity;
 
 namespace PartsUnlimited.Models
 {
+// cambio servidor
     public class ApplicationUser : IdentityUser
     {
         public string Name { get; set; }
